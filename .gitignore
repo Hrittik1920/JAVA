@@ -1,0 +1,6 @@
+.idea
+out/
+JAVA1/
+*.c
+*.exe
+*.class
